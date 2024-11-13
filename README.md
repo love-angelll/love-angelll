@@ -54,9 +54,9 @@
 
 ## 📊 GitHub Статистика
 
-![GitHub Статистика](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&theme=tokyonight)
+![GitHub Статистика](https://github-readme-stats.vercel.app/api?username=love_angelll&show_icons=true&count_private=true&theme=tokyonight)
 
-![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=love_angelll&layout=compact&theme=tokyonight)
 
 ### 👁️ Просмотры профиля
 - **Просмотры профиля:**<br>![Profile Views](https://komarev.com/ghpvc/?username=love-angelll&label=Profile%20Views&color=blue)
