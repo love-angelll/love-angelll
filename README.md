@@ -40,14 +40,14 @@
 
 ## 📱 Социальные сети
 
-- ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) [@love_angelll](https://t.me/love_angelll)
-- ![VK](https://img.shields.io/badge/VK-4A76A8?style=for-the-badge&logo=vk&logoColor=white) [Основной](https://vk.com/love_angelll) | [Твинк](https://vk.com/lover_kotik)
-- ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) [@devil_kotik](https://instagram.com/devil_kotik)
-- ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) [@ivan_frunza](https://twitter.com/ivan_frunza)
-- ![Viber](https://img.shields.io/badge/Viber-8B66A9?style=for-the-badge&logo=viber&logoColor=white) [+37377586594](viber://chat?number=%2B37377586594)
-- ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) [+37377586594](https://wa.me/37377586594)
-- ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) [@love_angelll](https://discord.com)
-- ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white) [Профиль](https://steamcommunity.com/id/love_angelll/)
+- ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)<br>[@love_angelll](https://t.me/love_angelll)
+- ![VK](https://img.shields.io/badge/VK-4A76A8?style=for-the-badge&logo=vk&logoColor=white)<br> [Основной](https://vk.com/love_angelll) | [Твинк](https://vk.com/lover_kotik)
+- ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)<br> [@devil_kotik](https://instagram.com/devil_kotik)
+- ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)<br> [@ivan_frunza](https://twitter.com/ivan_frunza)
+- ![Viber](https://img.shields.io/badge/Viber-8B66A9?style=for-the-badge&logo=viber&logoColor=white)<br> [+37377586594](viber://chat?number=37377586594)
+- ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)<br> [+37377586594](https://wa.me/37377586594)
+- ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) <br> [@love_angelll](https://discord.com)
+- ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)<br> [Профиль](https://steamcommunity.com/id/love_angelll/)
 
 ---
 
