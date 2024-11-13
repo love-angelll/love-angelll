@@ -52,12 +52,11 @@
 
 ---
 
-## 📊 Статистика GitHub
+## 📊 GitHub Статистика
 
-### 📂 Репозитории
-- **Количество репозиториев:**<br>![Repos](https://img.shields.io/github/repos/love-angelll)
-- **Количество звезд:**<br>![Stars](https://img.shields.io/github/stars/love-angelll?style=social)
-- **Количество форков:**<br>![Forks](https://img.shields.io/github/forks/love-angelll?style=social)
+![GitHub Статистика](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&theme=tokyonight)
+
+![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
 
 ### 👁️ Просмотры профиля
 - **Просмотры профиля:**<br>![Profile Views](https://komarev.com/ghpvc/?username=love-angelll&label=Profile%20Views&color=blue)
