@@ -49,12 +49,12 @@
 ## 📊 Статистика GitHub
 
 ### 📂 Репозитории
-- **Количество репозиториев:** ![Repos](https://img.shields.io/github/repos/love-angelll)
-- **Количество звезд:** ![Stars](https://img.shields.io/github/stars/love-angelll?style=social)
-- **Количество форков:** ![Forks](https://img.shields.io/github/forks/love-angelll?style=social)
+- **Количество репозиториев:**<br>![Repos](https://img.shields.io/github/repos/love-angelll)
+- **Количество звезд:**<br>![Stars](https://img.shields.io/github/stars/love-angelll?style=social)
+- **Количество форков:**<br>![Forks](https://img.shields.io/github/forks/love-angelll?style=social)
 
 ### 👁️ Просмотры профиля
-- **Просмотры профиля:** ![Profile Views](https://komarev.com/ghpvc/?username=love-angelll&label=Profile%20Views&color=blue)
+- **Просмотры профиля:**<br>![Profile Views](https://komarev.com/ghpvc/?username=love-angelll&label=Profile%20Views&color=blue)
 
 ---
 
