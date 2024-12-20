@@ -70,31 +70,31 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>I am a specialist in PC setup and light repairs, an entry-level programmer, and a designer.
 Welcome to my profile! Here, I share my projects, solutions, and code. If you need help, don’t hesitate to reach out!
 
-##🌟 My Skills
+##  🌟 My Skills
 💻 PC Repair and Setup
 🌐 Web Development (HTML, CSS, JavaScript) (Entry Level)
 🎨 Design (business cards, logos, banners, flyers)
 📜 Translations (English, Russian, Moldovan)
 
-##🛠 About Me
+## 🛠 About Me
 🎓 I am 19 years old and actively learning new technologies.
 🌟 I help people solve technical problems, from software installation to troubleshooting.
 💻 I enjoy working with operating systems, especially Windows.
 🎨 I have experience in Photoshop for creating minimalistic and functional designs.
 🔍 I strive to expand my skills and deepen my knowledge.
 
-##🏆 Projects
+## 🏆 Projects
 ### 1. **[PC Help PMR](https://vk.com/pc_help_pmr)**
 Simple and accessible PC repair services in Transnistria.
 ### 2. **[Telegram Bot for Students (in progress)](https://github.com/love-angelll/tg-bot_students)**
 A bot that simplifies student life by sending schedules and teacher substitutions.
 
-##📞 How to Contact Me
+## 📞 How to Contact Me
 📧 Email: ivan.frunza.os@gmail.com
 📱 Phone: (+373) 775-8-65-94
 🌍 Location: Tashlyk, PMR
 
-##📱 Social Networks
+## 📱 Social Networks
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/love_angelll)
 [![VK Основной](https://img.shields.io/badge/VK%20Основной-4A76A8?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/love_angelll)
 [![VK Твинк](https://img.shields.io/badge/VK%20Твинк-4A76A8?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/lover_kotik)
@@ -106,15 +106,15 @@ A bot that simplifies student life by sending schedules and teacher substitution
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/love_angelll/)
 [![Kwork](https://img.shields.io/badge/Kwork-FFB300?style=for-the-badge&logo=kwork&logoColor=white)](https://kwork.ru/user/ivanfrunzaos)
 
-##✨ Interesting Facts About Me
+## ✨ Interesting Facts About Me
 🚀 I am constantly looking for new ways to automate tasks.
 🌍 I aspire to develop my skills further for working with international clients.
 
-##📊 GitHub Stats
+## 📊 GitHub Stats
 ![GitHub Статистика](https://github-readme-stats.vercel.app/api?username=love-angelll&show_icons=true&count_private=true&theme=tokyonight)
 ![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=love-angelll&layout=compact&theme=tokyonight)
 
-##👁️ Profile Views
+## 👁️ Profile Views
 - **Просмотры профиля:**<br>![Profile Views](https://komarev.com/ghpvc/?username=love-angelll&label=Profile%20Views&color=blue)
 
 ### Thank you for stopping by my profile! If you need more information or have any questions, feel free to contact me.
