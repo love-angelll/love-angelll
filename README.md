@@ -71,28 +71,28 @@
 Welcome to my profile! Here, I share my projects, solutions, and code. If you need help, don’t hesitate to reach out!
 
 ##  🌟 My Skills
-💻 PC Repair and Setup
-🌐 Web Development (HTML, CSS, JavaScript) (Entry Level)
-🎨 Design (business cards, logos, banners, flyers)
-📜 Translations (English, Russian, Moldovan)
+- 💻 PC Repair and Setup
+- 🌐 Web Development (HTML, CSS, JavaScript) (Entry Level)
+- 🎨 Design (business cards, logos, banners, flyers)
+- 📜 Translations (English, Russian, Moldovan)
 
 ## 🛠 About Me
-🎓 I am 19 years old and actively learning new technologies.
-🌟 I help people solve technical problems, from software installation to troubleshooting.
-💻 I enjoy working with operating systems, especially Windows.
-🎨 I have experience in Photoshop for creating minimalistic and functional designs.
-🔍 I strive to expand my skills and deepen my knowledge.
+- 🎓 I am 19 years old and actively learning new technologies.
+- 🌟 I help people solve technical problems, from software installation to troubleshooting.
+- 💻 I enjoy working with operating systems, especially Windows.
+- 🎨 I have experience in Photoshop for creating minimalistic and functional designs.
+- 🔍 I strive to expand my skills and deepen my knowledge.
 
 ## 🏆 Projects
-### 1. **[PC Help PMR](https://vk.com/pc_help_pmr)**
-Simple and accessible PC repair services in Transnistria.
-### 2. **[Telegram Bot for Students (in progress)](https://github.com/love-angelll/tg-bot_students)**
-A bot that simplifies student life by sending schedules and teacher substitutions.
+- ### 1. **[PC Help PMR](https://vk.com/pc_help_pmr)**
+- Simple and accessible PC repair services in Transnistria.
+- ### 2. **[Telegram Bot for Students (in progress)](https://github.com/love-angelll/tg-bot_students)**
+- A bot that simplifies student life by sending schedules and teacher substitutions.
 
 ## 📞 How to Contact Me
-📧 Email: ivan.frunza.os@gmail.com
-📱 Phone: (+373) 775-8-65-94
-🌍 Location: Tashlyk, PMR
+- 📧 Email: ivan.frunza.os@gmail.com
+- 📱 Phone: (+373) 775-8-65-94
+- 🌍 Location: Tashlyk, PMR
 
 ## 📱 Social Networks
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/love_angelll)
@@ -107,8 +107,8 @@ A bot that simplifies student life by sending schedules and teacher substitution
 [![Kwork](https://img.shields.io/badge/Kwork-FFB300?style=for-the-badge&logo=kwork&logoColor=white)](https://kwork.ru/user/ivanfrunzaos)
 
 ## ✨ Interesting Facts About Me
-🚀 I am constantly looking for new ways to automate tasks.
-🌍 I aspire to develop my skills further for working with international clients.
+- 🚀 I am constantly looking for new ways to automate tasks.
+- 🌍 I aspire to develop my skills further for working with international clients.
 
 ## 📊 GitHub Stats
 ![GitHub Статистика](https://github-readme-stats.vercel.app/api?username=love-angelll&show_icons=true&count_private=true&theme=tokyonight)
