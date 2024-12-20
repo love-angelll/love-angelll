@@ -55,7 +55,7 @@
 - 🌍 Хочу в будущем развивать свои навыки для работы с международными клиентами.  
 
 ## 📊 GitHub Статистика
-![GitHub Статистика](https://github-readme-stats.vercel.app/api?username=love-angelll&show_icons=true&count_private=true&theme=tokyonight)
+![GitHub Статистика](https://github-readme-stats.vercel.app/api?username=love-angelll&show_icons=true&count_private=true&theme=tokyonight) <br>
 ![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=love-angelll&layout=compact&theme=tokyonight)
 
 ### 👁️ Просмотры профиля
@@ -111,7 +111,7 @@ Welcome to my profile! Here, I share my projects, solutions, and code. If you ne
 - 🌍 I aspire to develop my skills further for working with international clients.
 
 ## 📊 GitHub Stats
-![GitHub Статистика](https://github-readme-stats.vercel.app/api?username=love-angelll&show_icons=true&count_private=true&theme=tokyonight)
+![GitHub Статистика](https://github-readme-stats.vercel.app/api?username=love-angelll&show_icons=true&count_private=true&theme=tokyonight) <br>
 ![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=love-angelll&layout=compact&theme=tokyonight)
 
 ## 👁️ Profile Views
