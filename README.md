@@ -61,7 +61,7 @@
 ### 👁️ Просмотры профиля
 - **Просмотры профиля:**<br>![Profile Views](https://komarev.com/ghpvc/?username=love-angelll&label=Profile%20Views&color=blue)
 
-###Спасибо, что заглянули в мой профиль! Если вам нужно больше информации или у вас есть вопросы, не стесняйтесь писать мне.
+### Спасибо, что заглянули в мой профиль! Если вам нужно больше информации или у вас есть вопросы, не стесняйтесь писать мне. <br><br><br><br><br><br>
 
 
 <!--                         ENGLISH VERSION                         --><div id="header" align="center">
@@ -117,5 +117,5 @@ A bot that simplifies student life by sending schedules and teacher substitution
 ##👁️ Profile Views
 - **Просмотры профиля:**<br>![Profile Views](https://komarev.com/ghpvc/?username=love-angelll&label=Profile%20Views&color=blue)
 
-###Thank you for stopping by my profile! If you need more information or have any questions, feel free to contact me.
+### Thank you for stopping by my profile! If you need more information or have any questions, feel free to contact me.
 
