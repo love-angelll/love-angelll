@@ -85,3 +85,109 @@
 Спасибо, что заглянули в мой профиль! Если вам нужно больше информации или у вас есть вопросы, не стесняйтесь писать мне.
 
 ---
+
+
+<!--                         ENGLISH VERSION                         --><div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div><h1 align="center">{EN} Hello everyone, I am Ivan Frunza
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>I am a specialist in PC setup and light repairs, an entry-level programmer, and a designer.
+Welcome to my profile! Here, I share my projects, solutions, and code. If you need help, don’t hesitate to reach out!
+
+
+---
+
+🌟 My Skills
+
+💻 PC Repair and Setup
+
+🌐 Web Development (HTML, CSS, JavaScript) (Entry Level)
+
+🎨 Design (business cards, logos, banners, flyers)
+
+📜 Translations (English, Russian, Moldovan)
+
+
+
+---
+
+🛠 About Me
+
+🎓 I am 19 years old and actively learning new technologies.
+
+🌟 I help people solve technical problems, from software installation to troubleshooting.
+
+💻 I enjoy working with operating systems, especially Windows.
+
+🎨 I have experience in Photoshop for creating minimalistic and functional designs.
+
+🔍 I strive to expand my skills and deepen my knowledge.
+
+
+
+---
+
+🏆 Projects
+
+1. PC Help PMR
+
+Simple and accessible PC repair services in Transnistria.
+
+2. Telegram Bot for Students (in progress)
+
+A bot that simplifies student life by sending schedules and teacher substitutions.
+
+
+---
+
+📞 How to Contact Me
+
+📧 Email: ivan.frunza.os@gmail.com
+
+📱 Phone: (+373) 775-8-65-94
+
+🌍 Location: Tashlyk, PMR
+
+
+
+---
+
+📱 Social Networks
+
+         
+
+
+---
+
+✨ Interesting Facts About Me
+
+🚀 I am constantly looking for new ways to automate tasks.
+
+📖 I enjoy watching TV shows that inspire growth (for example, "Tunnel").
+
+🌍 I aspire to develop my skills further for working with international clients.
+
+
+Thank you for visiting my profile! I look forward to your feedback, suggestions, or collaboration opportunities.
+
+
+---
+
+📊 GitHub Stats
+
+
+
+
+
+👁️ Profile Views
+
+Profile Views:<br>
+
+
+
+---
+
+Thank you for stopping by my profile! If you need more information or have any questions, feel free to contact me.
+
+
+---
+
