@@ -12,7 +12,7 @@
 ## 🌟 Мои навыки
 
 - 💻 **Ремонт и настройка ПК**
-- 🌐 **Веб-разработка** (HTML, CSS, JavaScript) (Начального уровня)
+- 🌐 **Веб-разработка** (Tilda) (Начального уровня)
 - 🎨 **Дизайн** (визитки, логотипы, банеры, флаеры)
 - 📜 **Переводы** (английский, русский, молдавский)
 
@@ -24,12 +24,10 @@
 - 🔍 Стремлюсь расширять свои навыки и углублять знания.  
 
 ## 🏆 Проекты
-
-### 1. **[Компьютерная помощь ПМР](https://vk.com/pc_help_pmr)**
-Простая и доступная помощь по ремонту ПК в Приднестровье.
-
-### 2. **[Telegram-бот для студентов (ещё в разроботке)](https://github.com/love-angelll/tg-bot_students)**
-Бот, который упрощает жизнь студентов, отправляя расписание и замену преподавателей.
+### 1. **[null](https://null)**
+null
+### 2. **[null](https://null)**
+null
 
 ## 📞 Как связаться
 
@@ -72,7 +70,7 @@ Welcome to my profile! Here, I share my projects, solutions, and code. If you ne
 
 ##  🌟 My Skills
 - 💻 PC Repair and Setup
-- 🌐 Web Development (HTML, CSS, JavaScript) (Entry Level)
+- 🌐 Web Development (Tilda) (Entry Level)
 - 🎨 Design (business cards, logos, banners, flyers)
 - 📜 Translations (English, Russian, Moldovan)
 
@@ -84,10 +82,10 @@ Welcome to my profile! Here, I share my projects, solutions, and code. If you ne
 - 🔍 I strive to expand my skills and deepen my knowledge.
 
 ## 🏆 Projects
-### 1. **[PC Help PMR](https://vk.com/pc_help_pmr)**
-- Simple and accessible PC repair services in Transnistria.
-### 2. **[Telegram Bot for Students (in progress)](https://github.com/love-angelll/tg-bot_students)**
-- A bot that simplifies student life by sending schedules and teacher substitutions.
+### 1. **[null](https://null)**
+null
+### 2. **[null](https://null)**
+null
 
 ## 📞 How to Contact Me
 - 📧 Email: ivan.frunza.os@gmail.com
