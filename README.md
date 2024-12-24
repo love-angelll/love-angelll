@@ -24,11 +24,11 @@
 - 🔍 Стремлюсь расширять свои навыки и углублять знания.  
 
 ## 🏆 Проекты
-- 1. [Название](https://github.com/love-angelll/love-angelll/blob/secondary/WORKS.md)
-- 2. [Название](https://github.com/love-angelll/love-angelll/blob/secondary/WORKS.md)
-- 3. [Название](https://github.com/love-angelll/love-angelll/blob/secondary/WORKS.md)
-- 4. [Название](https://github.com/love-angelll/love-angelll/blob/secondary/WORKS.md)
-- 5. [Название](https://github.com/love-angelll/love-angelll/blob/secondary/WORKS.md)
+- 1. [Название](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)
+- 2. [Название](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)
+- 3. [Название](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)
+- 4. [Название](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)
+- 5. [Название](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)
 
 
 ## 📞 Как связаться
@@ -84,11 +84,11 @@ Welcome to my profile! Here, I share my projects, solutions, and code. If you ne
 - 🔍 I strive to expand my skills and deepen my knowledge.
 
 ## 🏆 Projects
-- 1. [Name](https://github.com/love-angelll/love-angelll/blob/secondary/WORKS.md)
-- 2. [Name](https://github.com/love-angelll/love-angelll/blob/secondary/WORKS.md)
-- 3. [Name](https://github.com/love-angelll/love-angelll/blob/secondary/WORKS.md)
-- 4. [Name](https://github.com/love-angelll/love-angelll/blob/secondary/WORKS.md)
-- 5. [Name](https://github.com/love-angelll/love-angelll/blob/secondary/WORKS.md)
+- 1. [Name](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)
+- 2. [Name](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)
+- 3. [Name](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)
+- 4. [Name](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)
+- 5. [Name](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)
 
 ## 📞 How to Contact Me
 - 📧 Email: ivan.frunza.os@gmail.com
