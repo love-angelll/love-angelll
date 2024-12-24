@@ -24,11 +24,11 @@
 - 🔍 Стремлюсь расширять свои навыки и углублять знания.  
 
 ## 🏆 Проекты
-1. [Название](https://github.com/love-angelll/love-angelll/blob/main/MY-WORKS.md) <br>
-2. [Название](https://github.com/love-angelll/love-angelll/blob/main/MY-WORKS.md) <br>
-3. [Название](https://github.com/love-angelll/love-angelll/blob/main/MY-WORKS.md) <br>
-4. [Название](https://github.com/love-angelll/love-angelll/blob/main/MY-WORKS.md) <br>
-5. [Название](https://github.com/love-angelll/love-angelll/blob/main/MY-WORKS.md) <br>
+- 1. [Название](https://github.com/love-angelll/love-angelll/blob/main/MY-WORKS.md)
+- 2. [Название](https://github.com/love-angelll/love-angelll/blob/main/MY-WORKS.md)
+- 3. [Название](https://github.com/love-angelll/love-angelll/blob/main/MY-WORKS.md)
+- 4. [Название](https://github.com/love-angelll/love-angelll/blob/main/MY-WORKS.md)
+- 5. [Название](https://github.com/love-angelll/love-angelll/blob/main/MY-WORKS.md)
 
 
 ## 📞 Как связаться
@@ -84,10 +84,11 @@ Welcome to my profile! Here, I share my projects, solutions, and code. If you ne
 - 🔍 I strive to expand my skills and deepen my knowledge.
 
 ## 🏆 Projects
-### 1. **[null](https://null)**
-null
-### 2. **[null](https://null)**
-null
+- 1. [Name](https://github.com/love-angelll/love-angelll/blob/main/MY-WORKS.md)
+- 2. [Name](https://github.com/love-angelll/love-angelll/blob/main/MY-WORKS.md)
+- 3. [Name](https://github.com/love-angelll/love-angelll/blob/main/MY-WORKS.md)
+- 4. [Name](https://github.com/love-angelll/love-angelll/blob/main/MY-WORKS.md)
+- 5. [Name](https://github.com/love-angelll/love-angelll/blob/main/MY-WORKS.md)
 
 ## 📞 How to Contact Me
 - 📧 Email: ivan.frunza.os@gmail.com
