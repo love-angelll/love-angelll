@@ -24,7 +24,12 @@
 - 🔍 Стремлюсь расширять свои навыки и углублять знания.  
 
 ## 🏆 Проекты
-[Список проектов и работ](https://github.com/love-angelll/love-angelll/blob/main/MY-WORKS.md)
+1. [Название](https://github.com/love-angelll/love-angelll/blob/main/MY-WORKS.md) <br>
+2. [Название](https://github.com/love-angelll/love-angelll/blob/main/MY-WORKS.md) <br>
+3. [Название](https://github.com/love-angelll/love-angelll/blob/main/MY-WORKS.md) <br>
+4. [Название](https://github.com/love-angelll/love-angelll/blob/main/MY-WORKS.md) <br>
+5. [Название](https://github.com/love-angelll/love-angelll/blob/main/MY-WORKS.md) <br>
+
 
 ## 📞 Как связаться
 
