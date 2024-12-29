@@ -24,20 +24,18 @@
 - 🔍 Стремлюсь расширять свои навыки и углублять знания.  
 
 ## 🏆 Проекты <br>
-**1. [Авторский сайт — Иван Фрунза](https://github.com/love-angelll/my_blog_site)**
-Это мой личный сайт для блога , проект пока в процессе , но скоро будут большие перемены.<br>
 
-**2. [Название](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**<br>
+**1. [Автопостинг из Телеграмм в Вконтакте](https://github.com/love-angelll/autopost)**<br>
+Этот проект представляет собой скрипт на Python, который автоматически публикует сообщения из Telegram-канала или чата в указанную группу ВКонтакте. Он поддерживает различные типы контента, включая текст, изображения, видео и ссылки.<br>
 
-**3. [Название](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**<br>
+**2. [-](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**<br>
 
-**4. [Название](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**<br>
+**3. [-](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**<br>
 
-**5. [Название](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**<br>
+**4. [-](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**<br>
 
-
-**Краткое описание моих проектов:**<br>
- - [README.md](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)
+**5. [Авторский сайт — Иван Фрунза](https://github.com/love-angelll/my_blog_site)**
+Это мой личный сайт для блога , проект пока в процессе , но скоро будут большие перемены.<br> 
 
 
 ## 📞 Как связаться
@@ -93,16 +91,17 @@ Welcome to my profile! Here, I share my projects, solutions, and code. If you ne
 - 🔍 I strive to expand my skills and deepen my knowledge.
 
 ## 🏆 Projects<br>
-**1. [Author's site — Ivan Frunza](https://github.com/love-angelll/my_blog_site)**<br>
+**1. [Auto-posting from Telegram to Vkontakte](https://github.com/love-angelll/autopost)**<br>
+This project is a Python script that automatically publishes messages from a Telegram channel or chat to a specified VKontakte group. It supports a variety of content types, including text, images, videos, and links.<br>
+
+**2. [-](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**<br>
+
+**3. [-](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**<br>
+
+**4. [-](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**<br>
+
+**5. [Author's site — Ivan Frunza](https://github.com/love-angelll/my_blog_site)**
 This is my personal blog site, the project is still in progress, but there will be big changes soon.<br>
-
-**2. [Name](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**<br>
-**3. [Name](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**<br>
-**4. [Name](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**<br>
-**5. [Name](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**<br>
-
-**Brief description of my projects:**<br>
- - [README.md](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)
 
 ## 📞 How to Contact Me
 - 📧 Email: ivan.frunza.os@gmail.com
