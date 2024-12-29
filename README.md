@@ -23,16 +23,20 @@
 - 🎨 Умею работать в Photoshop для создания минималистичных и функциональных дизайнов.  
 - 🔍 Стремлюсь расширять свои навыки и углублять знания.  
 
-## 🏆 Проекты
+## 🏆 Проекты <br>
 **1. [Авторский сайт — Иван Фрунза](https://github.com/love-angelll/my_blog_site)**
-Это мой личный сайт для блога , проект пока в процессе , но скоро будут большие перемены.
+Это мой личный сайт для блога , проект пока в процессе , но скоро будут большие перемены.<br><br>
 
-**2. [Название](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**
-**3. [Название](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**
-**4. [Название](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**
-**5. [Название](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**
+**2. [Название](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**<br><br>
 
-**Краткое описание моих проектов:**
+**3. [Название](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**<br><br>
+
+**4. [Название](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**<br><br>
+
+**5. [Название](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**<br><br>
+
+
+**Краткое описание моих проектов:**<br>
  - [README.md](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)
 
 
@@ -88,16 +92,16 @@ Welcome to my profile! Here, I share my projects, solutions, and code. If you ne
 - 🎨 I have experience in Photoshop for creating minimalistic and functional designs.
 - 🔍 I strive to expand my skills and deepen my knowledge.
 
-## 🏆 Projects
-**1. [Author's site — Ivan Frunza](https://github.com/love-angelll/my_blog_site)**
-This is my personal blog site, the project is still in progress, but there will be big changes soon.
+## 🏆 Projects<br>
+**1. [Author's site — Ivan Frunza](https://github.com/love-angelll/my_blog_site)**<br>
+This is my personal blog site, the project is still in progress, but there will be big changes soon.<br><br>
 
-**2. [Name](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**
-**3. [Name](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**
-**4. [Name](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**
-**5. [Name](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**
+**2. [Name](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**<br><br>
+**3. [Name](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**<br><br>
+**4. [Name](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**<br><br>
+**5. [Name](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**<br><br>
 
-**Brief description of my projects:**
+**Brief description of my projects:**<br>
  - [README.md](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)
 
 ## 📞 How to Contact Me
