@@ -121,5 +121,145 @@ This project is a Python script that automatically publishes messages from a Tel
 ## 👁️ Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=love-angelll&label=Profile%20Views&color=blue)
 
-### Thank you for stopping by my profile! If you need more information or have any questions, feel free to contact me.
+### Thank you for stopping by my profile! If you need more information or have any questions, feel free to contact me.<br><br><br><br><br><br>
 
+
+
+
+
+
+<!--                         VERSIUNEA ROMÂNĂ                         -->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<h1 align="center">{RO} Salutare tuturor, eu sunt Ivan Frunza
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
+**Sunt specialist în configurarea și reparația ușoară a PC-urilor, programator începător și designer.**  
+Bine ați venit pe profilul meu! Aici împărtășesc proiectele mele, soluțiile și codul. Dacă aveți nevoie de ajutor, nu ezitați să mă contactați!
+
+## 🌟 Abilitățile mele
+
+- 💻 **Reparații și configurări PC**
+- 🌐 **Dezvoltare web** (Tilda) (Nivel de bază)
+- 🎨 **Design** (carte de vizită, logo-uri, bannere, fluturași)
+- 📜 **Traduceri** (engleză, rusă, moldovenească)
+
+## 🛠 Despre mine  
+- 🎓 Am 19 ani și studiez activ noi tehnologii.  
+- 🌟 Ajut oamenii să rezolve problemele legate de tehnologie: de la instalarea programelor până la depanarea defecțiunilor.  
+- 💻 Îmi place să lucrez cu sisteme de operare, în special Windows.  
+- 🎨 Știu să folosesc Photoshop pentru a crea designuri minimaliste și funcționale.  
+- 🔍 Îmi doresc să îmi extind abilitățile și să-mi aprofundezi cunoștințele.  
+
+## 🏆 Proiecte <br>
+
+**1. [Autopostare din Telegram în VKontakte](https://github.com/love-angelll/autopost)**<br>
+Acest proiect este un script Python care postează automat mesaje dintr-un canal sau chat Telegram în grupul specificat din VKontakte. Suportă diverse tipuri de conținut, inclusiv text, imagini, videoclipuri și link-uri.<br>
+
+**2. [-](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**<br>
+
+**3. [-](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**<br>
+
+## 📞 Cum mă contactați
+
+- 📧 **Email:** [ivan.frunza.os@gmail.com](mailto:ivan.frunza.os@gmail.com)
+- 📱 **Telefon:** (+373) 775-8-65-94
+- 🌍 **Locație:** Tâșlâc, PMR
+
+## 📱 Rețele sociale
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iv_frunza)
+[![VK Principal](https://img.shields.io/badge/VK%20Principal-4A76A8?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/iv.frunza)
+[![VK Secundar](https://img.shields.io/badge/VK%20Secundar-4A76A8?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/lover_kotik)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iv.frunza)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ivan_frunza)
+[![Viber](https://img.shields.io/badge/Viber-8B66A9?style=for-the-badge&logo=viber&logoColor=white)](viber://chat?number=%2B37377586594)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/37377586594)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/love_angelll/)
+[![Kwork](https://img.shields.io/badge/Kwork-FFB300?style=for-the-badge&logo=kwork&logoColor=white)](https://kwork.ru/user/ivanfrunzaos)
+
+## ✨ Fapte interesante despre mine  
+- 🚀 Caut mereu noi metode de automatizare a sarcinilor.  
+- 🌍 În viitor, vreau să-mi dezvolt abilitățile pentru a lucra cu clienți internaționali.  
+
+## 📊 Statistici GitHub
+![Statistici GitHub](https://github-readme-stats.vercel.app/api?username=love-angelll&show_icons=true&count_private=true&theme=tokyonight) <br>
+![Top limbi](https://github-readme-stats.vercel.app/api/top-langs/?username=love-angelll&layout=compact&theme=tokyonight)
+
+## 👁️ Vizualizări profil
+![Profile Views](https://komarev.com/ghpvc/?username=love-angelll&label=Vizualizări%20Profil&color=blue)
+
+### Mulțumesc că ați vizitat profilul meu! Dacă aveți nevoie de mai multe informații sau aveți întrebări, nu ezitați să îmi scrieți. <br><br><br><br><br><br>
+
+
+
+
+
+<!--                         УКРАЇНСЬКА ВЕРСІЯ                         -->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<h1 align="center">{UA} Привіт усім, я Іван Фрунза
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
+**Я — спеціаліст із налаштування та легкого ремонту ПК, початківець-програміст і дизайнер.**  
+Ласкаво просимо на мій профіль! Тут я ділюся своїми проєктами, рішеннями та кодом. Якщо вам потрібна допомога, не соромтеся звертатися!
+
+## 🌟 Мої навички
+
+- 💻 **Ремонт та налаштування ПК**
+- 🌐 **Веброзробка** (Tilda) (Початковий рівень)
+- 🎨 **Дизайн** (візитки, логотипи, банери, флаєри)
+- 📜 **Переклади** (англійська, російська, молдовська)
+
+## 🛠 Про мене  
+- 🎓 Мені 19 років, і я активно вивчаю нові технології.  
+- 🌟 Допомагаю людям вирішувати проблеми з технікою: від встановлення програм до усунення несправностей.  
+- 💻 Люблю працювати з операційними системами, особливо Windows.  
+- 🎨 Вмію працювати у Photoshop, створюючи мінімалістичні та функціональні дизайни.  
+- 🔍 Прагну розширювати свої навички та поглиблювати знання.  
+
+## 🏆 Проєкти <br>
+
+**1. [Автопостинг із Telegram до ВКонтакті](https://github.com/love-angelll/autopost)**<br>
+Цей проєкт — це скрипт на Python, який автоматично публікує повідомлення з каналу або чату Telegram у вказану групу ВКонтакті. Підтримуються різні типи контенту, включно з текстом, зображеннями, відео та посиланнями.<br>
+
+**2. [-](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**<br>
+
+**3. [-](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**<br>
+
+## 📞 Як зв'язатися
+
+- 📧 **Email:** [ivan.frunza.os@gmail.com](mailto:ivan.frunza.os@gmail.com)
+- 📱 **Телефон:** (+373) 775-8-65-94
+- 🌍 **Локація:** Ташлик, ПМР
+
+## 📱 Соціальні мережі
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iv_frunza)
+[![VK Основний](https://img.shields.io/badge/VK%20Основний-4A76A8?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/iv.frunza)
+[![VK Додатковий](https://img.shields.io/badge/VK%20Додатковий-4A76A8?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/lover_kotik)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iv.frunza)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ivan_frunza)
+[![Viber](https://img.shields.io/badge/Viber-8B66A9?style=for-the-badge&logo=viber&logoColor=white)](viber://chat?number=%2B37377586594)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/37377586594)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/love_angelll/)
+[![Kwork](https://img.shields.io/badge/Kwork-FFB300?style=for-the-badge&logo=kwork&logoColor=white)](https://kwork.ru/user/ivanfrunzaos)
+
+## ✨ Цікаві факти про мене  
+- 🚀 Постійно шукаю нові способи автоматизації завдань.  
+- 🌍 У майбутньому хочу розвивати свої навички для роботи з міжнародними клієнтами.  
+
+## 📊 Статистика GitHub
+![GitHub Статистика](https://github-readme-stats.vercel.app/api?username=love-angelll&show_icons=true&count_private=true&theme=tokyonight) <br>
+![Топ мов](https://github-readme-stats.vercel.app/api/top-langs/?username=love-angelll&layout=compact&theme=tokyonight)
+
+## 👁️ Перегляди профілю
+![Profile Views](https://komarev.com/ghpvc/?username=love-angelll&label=Перегляди%20Профілю&color=blue)
+
+### Дякую, що завітали на мій профіль! Якщо вам потрібна додаткова інформація або у вас є запитання, не соромтеся писати мені. <br><br><br><br><br><br>
