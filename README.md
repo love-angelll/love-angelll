@@ -61,7 +61,7 @@
 ![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=love-angelll&layout=compact&theme=tokyonight)
 
 ### 👁️ Просмотры профиля
-<br>![Profile Views](https://komarev.com/ghpvc/?username=love-angelll&label=Profile%20Views&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=love-angelll&label=Profile%20Views&color=blue)
 
 ### Спасибо, что заглянули в мой профиль! Если вам нужно больше информации или у вас есть вопросы, не стесняйтесь писать мне. <br><br><br><br><br><br>
 
@@ -119,7 +119,7 @@ This project is a Python script that automatically publishes messages from a Tel
 ![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=love-angelll&layout=compact&theme=tokyonight)
 
 ## 👁️ Profile Views
-<br>![Profile Views](https://komarev.com/ghpvc/?username=love-angelll&label=Profile%20Views&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=love-angelll&label=Profile%20Views&color=blue)
 
 ### Thank you for stopping by my profile! If you need more information or have any questions, feel free to contact me.
 
