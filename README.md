@@ -32,11 +32,6 @@
 
 **3. [-](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**<br>
 
-**4. [-](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**<br>
-
-**5. [Авторский сайт — Иван Фрунза](https://github.com/love-angelll/my_blog_site)**
-Это мой личный сайт для блога , проект пока в процессе , но скоро будут большие перемены.<br> 
-
 
 ## 📞 Как связаться
 
@@ -97,11 +92,6 @@ This project is a Python script that automatically publishes messages from a Tel
 **2. [-](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**<br>
 
 **3. [-](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**<br>
-
-**4. [-](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**<br>
-
-**5. [Author's site — Ivan Frunza](https://github.com/love-angelll/my_blog_site)**
-This is my personal blog site, the project is still in progress, but there will be big changes soon.<br>
 
 ## 📞 How to Contact Me
 - 📧 Email: ivan.frunza.os@gmail.com
