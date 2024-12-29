@@ -61,7 +61,7 @@
 ![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=love-angelll&layout=compact&theme=tokyonight)
 
 ## 👁️ Просмотры профиля
-![Profile Views](https://komarev.com/ghpvc/?username=love-angelll&label=Profile%20Views&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=love-angelll&label=Просмотры%20профиля&color=blue)
 
 ### Спасибо, что заглянули в мой профиль! Если вам нужно больше информации или у вас есть вопросы, не стесняйтесь писать мне. <br><br><br><br><br><br>
 
