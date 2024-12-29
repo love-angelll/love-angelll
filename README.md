@@ -24,11 +24,16 @@
 - 🔍 Стремлюсь расширять свои навыки и углублять знания.  
 
 ## 🏆 Проекты
-- 1. [Название](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)
-- 2. [Название](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)
-- 3. [Название](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)
-- 4. [Название](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)
-- 5. [Название](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)
+**1. [Авторский сайт — Иван Фрунза](https://github.com/love-angelll/my_blog_site)**
+Это мой личный сайт для блога , проект пока в процессе , но скоро будут большие перемены.
+
+**2. [Название](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**
+**3. [Название](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**
+**4. [Название](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**
+**5. [Название](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**
+
+**Краткое описание моих проектов:**
+ - [README.md](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)
 
 
 ## 📞 Как связаться
@@ -84,11 +89,16 @@ Welcome to my profile! Here, I share my projects, solutions, and code. If you ne
 - 🔍 I strive to expand my skills and deepen my knowledge.
 
 ## 🏆 Projects
-- 1. [Name](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)
-- 2. [Name](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)
-- 3. [Name](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)
-- 4. [Name](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)
-- 5. [Name](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)
+**1. [Author's site — Ivan Frunza](https://github.com/love-angelll/my_blog_site)**
+This is my personal blog site, the project is still in progress, but there will be big changes soon.
+
+**2. [Name](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**
+**3. [Name](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**
+**4. [Name](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**
+**5. [Name](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**
+
+**Brief description of my projects:**
+ - [README.md](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)
 
 ## 📞 How to Contact Me
 - 📧 Email: ivan.frunza.os@gmail.com
