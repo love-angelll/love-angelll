@@ -8,6 +8,8 @@
 
 **Я — специалист по настройке и легкого ремонта ПК, программист начального уровня и дизайнер.**  
 
+## ♦️ Мой Kwork: [![Kwork](https://img.shields.io/badge/Kwork-FFB300?style=for-the-badge&logo=kwork&logoColor=white)](https://kwork.ru/user/ivanfrunzaos) 
+
 ## 🌟 Мои навыки
 
 - 💻 **Ремонт и настройка ПК**
@@ -36,5 +38,3 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iv_frunza)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iv.frunza)
-
-[![Kwork](https://img.shields.io/badge/Kwork-FFB300?style=for-the-badge&logo=kwork&logoColor=white)](https://kwork.ru/user/ivanfrunzaos)
