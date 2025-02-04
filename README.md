@@ -1,17 +1,41 @@
  <!--                         РУССКАЯ ВЕРСИЯ                         -->
 <p align="center"> <href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=AFE1AF&center=true&width=435&lines=Welcome+To+My+Github+Page" alt="Typing SVG" /></p>
 
+<!-- ПЕЧАТАЛКА ТЕКСТА
 <p align="center">
   <a href="https://github.com/love-angelll"><img src="http://readme-typing-svg.herokuapp.com?color=df9c1f&center=true&vCenter=true&multiline=false&lines=Мое+имя+Иван+Фрунза;Don't+bully+me+≧▽≦" alt="Asu"></a>
 </p>
+-->
+
+<details>
+  <summary>О себе </summary>
+    <li>
+**Я — специалист по настройке и легкого ремонта ПК, программист начального уровня и дизайнер.**  
+Добро пожаловать на мой профиль! Здесь я делюсь своими проектами, решениями и кодом. Если вам нужна помощь, не стесняйтесь обращаться!
+    </li>
+
+    <li><a href="https://github.com/open-source-srilanka/helm-client">Helm Client</a></li>
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [![MIT license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
 
 <h1 align="center">{RU} Привет всем, я Иван Фрунза
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-**Я — специалист по настройке и легкого ремонта ПК, программист начального уровня и дизайнер.**  
-Добро пожаловать на мой профиль! Здесь я делюсь своими проектами, решениями и кодом. Если вам нужна помощь, не стесняйтесь обращаться!
+
 
 <!-- Новые прикалюхи
 
