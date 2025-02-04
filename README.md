@@ -72,11 +72,9 @@
 <br>
 <!-- Автор проекта -->
 <p align="center">
+<a href="https://github.com/XentronixHub/XentronixHub">
   <img src="https://img.shields.io/badge/XentronixHub-blue?style=for-the-badge" alt="Author">
 </p> 
-Все проекты тут:
-
-[Xentronix](https://github.com/XentronixHub/XentronixHub) 
 
 <br>
 
