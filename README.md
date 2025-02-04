@@ -88,16 +88,11 @@
   <h3>👥 Контакты</h3>
   <ul>
     <li>
-      <h3>📧 Email:</h3>
-      <h4>
-        <a href="mailto:ivan.frunza.os@gmail.com">ivan.frunza.os@gmail.com</a>
-      </h4>
+      <h3>📧 Email:</h3><h3><a href="mailto:ivan.frunza.os@gmail.com">ivan.frunza.os@gmail.com</a></h3>
     </li>
     <li>
-      <h3>📱 Телефон:</h3>
-      <h4>
-        <a href="tel:+37377586594">(+373) 775-8-65-94</a>
-      </h4>
+      <h3>📱 Телефон:</h3><h3><a href="tel:+37377586594">(+373) 775-8-65-94</a>
+      </h3>
     </li>
   </ul>
 
