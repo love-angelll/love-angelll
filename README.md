@@ -109,26 +109,11 @@
   <a href="https://www.instagram.com/iv.frunza" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/24/2111/2111463.png" alt="Instagram">
   </a>
-  <a href="https://www.threads.net/@iv_frunza" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/24/2111/2111728.png" alt="Threads">
-  </a>
   <a href="https://www.tiktok.com/@iv_frunza" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/24/3046/3046122.png" alt="TikTok">
   </a>
-  <a href="viber://chat?number=+37377586594">
-    <img src="https://cdn-icons-png.flaticon.com/24/2111/2111764.png" alt="Viber">
-  </a>
-  <a href="https://wa.me/37377586594">
-    <img src="https://cdn-icons-png.flaticon.com/24/2111/2111728.png" alt="WhatsApp">
-  </a>
-  <a href="https://wa.me/37369567656?business">
-    <img src="https://cdn-icons-png.flaticon.com/24/733/733585.png" alt="WhatsApp Business">
-  </a>
   <a href="https://www.youtube.com/c/love_angelll" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/24/1384/1384060.png" alt="YouTube">
-  </a>
-  <a href="https://ok.ru/ivanfrunza" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/24/2111/2111718.png" alt="Odnoklassniki">
   </a>
 </p>
 
