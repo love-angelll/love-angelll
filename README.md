@@ -70,7 +70,7 @@
   <summary style="font-size: 1.5em;">Репозитории</summary>
 <br>
 
-Все проекты тут: ![XentronixHub](https://github.com/XentronixHub/XentronixHub) 
+Все проекты тут: ![](https://github.com/XentronixHub/XentronixHub) 
 
 <br>
 
