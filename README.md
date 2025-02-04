@@ -90,8 +90,8 @@
 [![Autopost](https://github-readme-stats.vercel.app/api/pin/?username=love-angelll&repo=autopost&show_owner=true)](https://github.com/love-angelll/autopost)
 
 <p align="center">
-        <a href="https://github.com/formidablae/Trendr_App">
-                <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=love-angelll&repo=Trendr_App&hide_border=true&theme=dark">
+        <a href="https://github.com/love-angelll/autopost">
+                <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=love-angelll&repo=autopost&hide_border=true&theme=dark">
         </a>
 </p>
 
