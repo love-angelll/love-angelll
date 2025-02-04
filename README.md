@@ -115,6 +115,7 @@
 
 
 <!-- Репозитории -->
+<br>
 <details>
   <summary>Репозитории</summary>
 <p align="center">
