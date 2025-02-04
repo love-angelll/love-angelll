@@ -1,27 +1,6 @@
  <!-- Начало дизайна README.md файла -->
 <p align="center"> <href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=AFE1AF&center=true&width=435&lines=Welcome+To+My+Github+Page" alt="Typing SVG" /></p>
 
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="http://github.com/love-angelll">
-        <img src="https://github.com/love-angelll/love-angelll/blob/main/imgs/ava.jpg" width="100px;" alt="Foto de Tati Alves no GitHub"/><br>
-        <sub>
-          <b>love-angelll</b>
-        </sub>
-      </a>
-     <h6 align="center">Кто я?</h6>  
-    </td>
-  </tr>
-</table>
-
-<!-- ПЕЧАТАЛКА ТЕКСТА
-<p align="center">
-  <a href="https://github.com/love-angelll"><img src="http://readme-typing-svg.herokuapp.com?color=df9c1f&center=true&vCenter=true&multiline=false&lines=Мое+имя+Иван+Фрунза;Don't+bully+me+≧▽≦" alt="Asu"></a>
-</p>
--->
-
 <!-- Приветствие -->
 <h2 align="center">Привет всем, я Иван Фрунза
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2> 
@@ -38,8 +17,6 @@
        title="Follow me on GitHub" 
        src="https://custom-icon-badges.herokuapp.com/github/followers/love-angelll?color=318CE7&labelColor=505050&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" /></a>
  </div>
-
-
 
 
 <!--   Заголовок основного раздела -->
@@ -170,3 +147,26 @@
   </tr>
 </table>
 -->
+
+<!-- ПЕЧАТАЛКА ТЕКСТА
+<p align="center">
+  <a href="https://github.com/love-angelll"><img src="http://readme-typing-svg.herokuapp.com?color=df9c1f&center=true&vCenter=true&multiline=false&lines=Мое+имя+Иван+Фрунза;Don't+bully+me+≧▽≦" alt="Asu"></a>
+</p>
+
+Рамка с фото и надписю снизу
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="http://github.com/love-angelll">
+        <img src="https://github.com/love-angelll/love-angelll/blob/main/imgs/ava.jpg" width="100px;" alt="Foto de Tati Alves no GitHub"/><br>
+        <sub>
+          <b>love-angelll</b>
+        </sub>
+      </a>
+     <h6 align="center">Кто я?</h6>  
+    </td>
+  </tr>
+</table>
+
+
+--> 
