@@ -66,8 +66,8 @@
 </p>
 
 ## Latest Tweet 🐦  
-![](https://gtce.itsvg.in/api?username=ivan_frunza&theme=jolly&response=false)](https://github.com/love-angelll/github-twitter-card-embed)
-> Twitter API pricing changes Killed this tool sadly, but we are trying to find a workaround, let's see. 
+[![](https://gtce.itsvg.in/api?username=ivan_frunza&theme=jolly&response=true)](https://github.com/love-angelll/github-twitter-card-embed)
+> Изменения в ценах на Twitter API, к сожалению, убили этот инструмент, но мы пытаемся найти обходной путь, давайте посмотрим. 
 
 <!-- Репозитории -->
 <details>
