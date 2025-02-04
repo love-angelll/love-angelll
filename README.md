@@ -101,7 +101,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg width="24" alt="VK">
   </a>
   <a href="https://vk.com/lover_kotik" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" width="24" alt="VK Twink">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg width="24" alt="VK Twink">
   </a>
   <a href="https://t.me/iv_frunza" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/24/2111/2111646.png" alt="Telegram">
