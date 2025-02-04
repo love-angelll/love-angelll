@@ -130,10 +130,10 @@
 <details>
 <summary style="font-size: 1.5em;">GitHub Статистика</summary>
 <br>
-
-![GitHub Статистика](https://github-readme-stats.vercel.app/api?username=love-angelll&show_icons=true&count_private=true&theme=tokyonight) <br>
-![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=love-angelll&layout=compact&theme=tokyonight)
+  <img alt="Dinush Chathurya Github Stats" src="https://github-readme-stats.vercel.app/api?username=dinushchathurya&count_private=true&show_icons=true&theme=algolia" style="height:214px;"/>
 </details>
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinushchathurya&theme=algolia&langs_count=15&layout=compact" />
+</details> 
 
 
 
