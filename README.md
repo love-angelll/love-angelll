@@ -96,11 +96,41 @@
   </ul>
 
   <h3>📡 Социальные сети</h3>
-  <h5>📧 <strong>Email:</strong> 
-    <a href="mailto:ivan.frunza.os@gmail.com">ivan.frunza.os@gmail.com</a> |
-    📱 <strong>Телефон:</strong> 
-    <a href="tel:+37377586594">(+373) 775-8-65-94</a>
-  </h5>
+<p>
+  <a href="https://vk.com/iv.frunza" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/24/2111/2111710.png" alt="VK">
+  </a>
+  <a href="https://vk.com/lover_kotik" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/24/2111/2111710.png" alt="VK Twink">
+  </a>
+  <a href="https://t.me/iv_frunza" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/24/2111/2111646.png" alt="Telegram">
+  </a>
+  <a href="https://www.instagram.com/iv.frunza" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/24/2111/2111463.png" alt="Instagram">
+  </a>
+  <a href="https://www.threads.net/@iv_frunza" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/24/2111/2111728.png" alt="Threads">
+  </a>
+  <a href="https://www.tiktok.com/@iv_frunza" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/24/3046/3046122.png" alt="TikTok">
+  </a>
+  <a href="viber://chat?number=+37377586594">
+    <img src="https://cdn-icons-png.flaticon.com/24/2111/2111764.png" alt="Viber">
+  </a>
+  <a href="https://wa.me/37377586594">
+    <img src="https://cdn-icons-png.flaticon.com/24/2111/2111728.png" alt="WhatsApp">
+  </a>
+  <a href="https://wa.me/37369567656?business">
+    <img src="https://cdn-icons-png.flaticon.com/24/733/733585.png" alt="WhatsApp Business">
+  </a>
+  <a href="https://www.youtube.com/c/love_angelll" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/24/1384/1384060.png" alt="YouTube">
+  </a>
+  <a href="https://ok.ru/ivanfrunza" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/24/2111/2111718.png" alt="Odnoklassniki">
+  </a>
+</p>
 
 </details>
 
