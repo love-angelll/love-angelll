@@ -2,7 +2,7 @@
 <p align="center"> <href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=AFE1AF&center=true&width=435&lines=Welcome+To+My+Github+Page" alt="Typing SVG" /></p>
 
 <!-- Приветствие -->
-<h2 align="center">Привет всем, я Иван Фрунза
+<h2 align="center">Привет, я Иван Фрунза
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2> 
 
 <!-- Просмотров профиля и подписчиков -->
