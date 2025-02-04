@@ -126,6 +126,13 @@
 </details>
 
 
+<!-- Статитска -->
+<details>
+<summary style="font-size: 1.5em;">GitHub Статистика</summary>
+
+![GitHub Статистика](https://github-readme-stats.vercel.app/api?username=love-angelll&show_icons=true&count_private=true&theme=tokyonight) <br>
+![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=love-angelll&layout=compact&theme=tokyonight)
+
 
 
 
@@ -178,13 +185,9 @@
 
 
 
-## ✨ Интересные факты обо мне  
-- 🚀 Постоянно ищу новые способы автоматизировать задачи.  
-- 🌍 Хочу в будущем развивать свои навыки для работы с международными клиентами.  
 
-## 📊 GitHub Статистика
-![GitHub Статистика](https://github-readme-stats.vercel.app/api?username=love-angelll&show_icons=true&count_private=true&theme=tokyonight) <br>
-![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=love-angelll&layout=compact&theme=tokyonight)
+
+
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
