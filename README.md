@@ -65,16 +65,17 @@
 </a>
 </p>
 
-<!-- Репозитории -->
-<details>
-  <summary style="font-size: 1.5em;">Репозитории</summary>
+## Проекты и репозитории
 
-<br>
 <!-- Автор проекта -->
 <p align="center">
 <a href="https://github.com/XentronixHub/XentronixHub">
   <img src="https://img.shields.io/badge/XentronixHub-blue?style=for-the-badge" alt="Author">
 </p> 
+
+<!-- Репозитории 
+<details>
+  <summary style="font-size: 1.5em;">Репозитории</summary>
 
 <br>
 
@@ -85,6 +86,7 @@
 </p>
 
 </details>
+-->
 
 
 <!-- Статитска -->
