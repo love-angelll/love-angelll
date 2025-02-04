@@ -116,7 +116,7 @@
 
 <!-- Репозитории -->
 <details>
-  <summary>Репозитории</summary>
+  <summary><h2>Репозитории</h2></summary>
 <br>
 <p align="center">
         <a href="https://github.com/love-angelll/autopost">
