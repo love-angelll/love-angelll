@@ -291,3 +291,5 @@ Acest proiect este un script Python care postează automat mesaje dintr-un canal
 ![Profile Views](https://komarev.com/ghpvc/?username=love-angelll&label=Profile%20Views&color=blue)
 
 ### Дякую, що завітали на мій профіль! Якщо вам потрібна додаткова інформація або у вас є запитання, не соромтеся писати мені. <br><br><br><br><br><br>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
