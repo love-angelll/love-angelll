@@ -65,10 +65,6 @@
 </a>
 </p>
 
-## Latest Tweet 🐦  
-[![](https://gtce.itsvg.in/api?username=ivan_frunza&theme=jolly&response=true)](https://github.com/love-angelll/github-twitter-card-embed)
-> Изменения в ценах на Twitter API, к сожалению, убили этот инструмент, но мы пытаемся найти обходной путь, давайте посмотрим. 
-
 <!-- Репозитории -->
 <details>
   <summary style="font-size: 1.5em;">Репозитории</summary>
