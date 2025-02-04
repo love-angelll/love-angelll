@@ -118,11 +118,13 @@
 <details>
   <summary style="font-size: 1.5em;">Репозитории</summary>
 <br>
+
 <p align="center">
         <a href="https://github.com/love-angelll/autopost">
                 <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=love-angelll&repo=autopost&hide_border=true&theme=dark">
         </a>
 </p>
+
 </details>
 
 
@@ -136,8 +138,8 @@
 
 
 
-
-
+<!-- Радужная линия -->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/> 
 
 
 
@@ -151,10 +153,9 @@
 
 <!--
 [![MIT license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
--->
 
+Новые прикалюхи
 
-<!-- Новые прикалюхи
 ## :handshake: Colaboradores
 <table>
   <tr>
@@ -169,25 +170,3 @@
   </tr>
 </table>
 -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
