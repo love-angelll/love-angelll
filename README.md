@@ -85,7 +85,12 @@
 <details>
   <summary>Контакты и социальные сети</summary>
 <h3>👥 Контакты</h3>
-<li> <h3>Email:</h3><h4>[ivan.frunza.os@gmail.com](mailto:ivan.frunza.os@gmail.com)</h4></li>
+<li><h3>Email:</h3>
+
+<h4>
+[ivan.frunza.os@gmail.com](mailto:ivan.frunza.os@gmail.com)
+<a href="ivan.frunza.os@gmail.com">ivan.frunza.os@gmail.com</a>
+</h4></li>
 <li><h3>📱 Телефон:</h3><h4> (+373) 775-8-65-94</h4></li>
 
 <h3>Социальные сети</h3> 
