@@ -49,7 +49,7 @@
 <details>
 
   <summary style="font-size: 1.5em;">📧 Email</summary>
-
+<br>
 <a href="mailto:ivan.frunza.os@gmail.com">ivan.frunza.os@gmail.com</a>
 
 </details>
@@ -57,7 +57,7 @@
 <details>
 
   <summary style="font-size: 1.5em;">📱 Телефон</summary>
-
+<br>
 <a href="tel:+37377586594">(+373) 775-8-65-94</a>
 
 </details>
