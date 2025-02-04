@@ -10,8 +10,8 @@
         <sub>
           <b>love-angelll</b>
         </sub>
-       <p align="center">Кто я?</p> 
       </a>
+     <p align="center">Кто я?</p>  
     </td>
   </tr>
 </table>
