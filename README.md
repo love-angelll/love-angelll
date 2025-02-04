@@ -9,8 +9,8 @@
         <img src="https://github.com/love-angelll/love-angelll/blob/main/imgs/ava.jpg" width="100px;" alt="Foto de Tati Alves no GitHub"/><br>
         <sub>
           <b>love-angelll</b>
-          <p>Кто я?</p>
         </sub>
+       <p align="center">Кто я?</p> 
       </a>
     </td>
   </tr>
