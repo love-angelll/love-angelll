@@ -51,6 +51,15 @@
   </tr>
 </table>
 
+# Projects
+
+## Full-stack
+<p align="center">
+        <a href="https://github.com/formidablae/Trendr_App">
+                <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=formidablae&repo=Trendr_App&hide_border=true&theme=dark">
+        </a>
+</p>
+
 
 
 -->
