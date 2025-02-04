@@ -28,6 +28,11 @@
        src="https://custom-icon-badges.herokuapp.com/github/followers/JoshuaThadi?color=318CE7&labelColor=505050&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" /></a>
  </div>
 
+## My Repos
+
+[![sajib-notes](https://github-readme-stats.vercel.app/api/pin/?username=sajib1066&repo=sajib-notes&show_owner=true)](https://github.com/sajib1066/sajib-notes)
+[![job-finder-backend](https://github-readme-stats.vercel.app/api/pin/?username=sajib1066&repo=job-finder-backend&show_owner=true)](https://github.com/sajib1066/job-finder-backend)
+
 
 
 -->
