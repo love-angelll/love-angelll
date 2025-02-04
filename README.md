@@ -45,6 +45,7 @@
 <!--   Заголовок основного раздела -->
 <h2>Основной раздел</h2> 
 
+
 <!--   Описание -->
 <details>
   <summary>Описание</summary>
@@ -53,6 +54,7 @@
 Добро пожаловать на мой профиль! Здесь я делюсь своими проектами, решениями и кодом. Если вам нужна помощь, не стесняйтесь обращаться!
     </h4>
 </details>
+
 
 <!--   Обо мне -->
 <details>
@@ -66,6 +68,7 @@
     </h4>
 </details>
 
+
 <!--   Навыки -->
 <details>
   <summary>Мои навыки</summary>
@@ -78,7 +81,20 @@
 </details>
 
 
-
+<!--   Контакты -->
+<details>
+  <summary>Контакты и социальные сети</summary>
+<h3>Контакты</h3>
+    <h4>
+📧 **Email:** [ivan.frunza.os@gmail.com](mailto:ivan.frunza.os@gmail.com)
+📱 **Телефон:** (+373) 775-8-65-94
+    </h4>
+<h3>Социальные сети</h3> 
+<h4>
+📧 **Email:** [ivan.frunza.os@gmail.com](mailto:ivan.frunza.os@gmail.com)
+📱 **Телефон:** (+373) 775-8-65-94
+    </h4>
+</details>
 
 <!-- Репозитории -->
 ## Mои репозитории
@@ -88,9 +104,6 @@
                 <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=love-angelll&repo=autopost&hide_border=true&theme=dark">
         </a>
 </p>
-
-
-## :handshake: Colaboradores
 
 
 
@@ -128,18 +141,6 @@
     </td>
   </tr>
 </table>
-
-# Projects
-
-## Full-stack
-<p align="center">
-        <a href="https://github.com/formidablae/Trendr_App">
-                <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=formidablae&repo=Trendr_App&hide_border=true&theme=dark">
-        </a>
-</p>
-
-
-
 -->
 
 
@@ -156,13 +157,6 @@
 
 
 
-## 📞 Как связаться
-
-- 📧 **Email:** [ivan.frunza.os@gmail.com](mailto:ivan.frunza.os@gmail.com)
-- 📱 **Телефон:** (+373) 775-8-65-94
-- 🌍 **Локация:** Ташлык, ПМР
-
-=white)](https://kwork.ru/user/ivan_frunza)
 
 ## ✨ Интересные факты обо мне  
 - 🚀 Постоянно ищу новые способы автоматизировать задачи.  
