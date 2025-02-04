@@ -108,8 +108,15 @@
 <!-- Статитска -->
 <details>
 <summary style="font-size: 1.5em;">GitHub Статистика</summary>
-  <img alt="Dinush Chathurya Github Stats" src="https://github-readme-stats.vercel.app/api?username=love-angelll&count_private=true&show_icons=true&theme=algolia" style="height:214px;"/>
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=love-angelll&theme=algolia&langs_count=15&layout=compact" />
+
+<p align="center">
+        <img width="450em" src="https://github-readme-stats.vercel.app/api?username=formidablae&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
+</p>
+
+<p align="center">
+        <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=formidablae&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&hide_border=true&theme=dark&hide=">
+</p> 
+
 </details> 
 
 
