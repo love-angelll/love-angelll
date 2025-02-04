@@ -7,6 +7,10 @@
 </p>
 -->
 
+<!-- Приветствие -->
+<h2 align="center">Привет всем, я Иван Фрунза
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2> 
+
 <!-- Просмотров профиля и подписчиков -->
 <div align="center">
 <a href="https://github.com/love-angelll">
@@ -75,9 +79,6 @@
 
 
 [![MIT license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
-
-<h1 align="center">{RU} Привет всем, я Иван Фрунза
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 
 
