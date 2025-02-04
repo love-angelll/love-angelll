@@ -24,6 +24,8 @@
        src="https://custom-icon-badges.herokuapp.com/github/followers/love-angelll?color=318CE7&labelColor=505050&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" /></a>
  </div>
 
+
+<!-- Социальные сети 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iv_frunza)
 [![VK Основной](https://img.shields.io/badge/VK%20Основной-4A76A8?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/iv.frunza)
 [![VK Твинк](https://img.shields.io/badge/VK%20Твинк-4A76A8?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/lover_kotik)
@@ -34,6 +36,7 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/love_angelll/)
 [![Kwork](https://img.shields.io/badge/Kwork-FFB300?style=for-the-badge&logo=kwork&logoColor=white)](https://kwork.ru/user/ivan_frunza) 
+-->
 
 
 <!--   Заголовок основного раздела -->
@@ -75,6 +78,11 @@
 
 
 
+## Mои репозитории
+
+[![Autopost](https://github-readme-stats.vercel.app/api/pin/?username=love-angelll&repo=autopost&show_owner=true)](https://github.com/love-angelll/autopost)
+
+[![job-finder-backend](https://github-readme-stats.vercel.app/api/pin/?username=sajib1066&repo=job-finder-backend&show_owner=true)](https://github.com/sajib1066/job-finder-backend)
 
 
 
@@ -89,8 +97,9 @@
 
 
 
+<!--
 [![MIT license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
-
+-->
 
 
 <!-- Новые прикалюхи
@@ -99,10 +108,7 @@
 
  
 
-## My Repos
 
-[![sajib-notes](https://github-readme-stats.vercel.app/api/pin/?username=sajib1066&repo=sajib-notes&show_owner=true)](https://github.com/sajib1066/sajib-notes)
-[![job-finder-backend](https://github-readme-stats.vercel.app/api/pin/?username=sajib1066&repo=job-finder-backend&show_owner=true)](https://github.com/sajib1066/job-finder-backend)
 
 ## :handshake: Colaboradores
 <table>
