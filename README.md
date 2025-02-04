@@ -112,9 +112,6 @@
   <a href="https://www.tiktok.com/@iv_frunza" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" width="24" alt="TikTok">
 </a>
-  <a href="https://www.youtube.com/c/love_angelll" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/24/1384/1384060.png" alt="YouTube">
-  </a>
 </p>
 
 </details>
