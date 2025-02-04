@@ -90,8 +90,6 @@
       <h5>📧 Email: 
         <a href="mailto:ivan.frunza.os@gmail.com">ivan.frunza.os@gmail.com</a>
       </h5>
-    </li>
-    <li>
       <h5>📱 Телефон: 
         <a href="tel:+37377586594">(+373) 775-8-65-94</a>
       </h5>
