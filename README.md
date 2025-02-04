@@ -7,7 +7,10 @@
 </p>
 -->
 
-<h2>О себе</h2> 
+<!--   Заголовок основного раздела -->
+<h2>Основной раздел</h2> 
+
+<!--   Описание -->
 <details>
   <summary>Описание</summary>
     <h4>
@@ -16,6 +19,7 @@
     </h4>
 </details>
 
+<!--   Обо мне -->
 <details>
   <summary>Обо мне</summary>
     <h4> 
@@ -27,6 +31,7 @@
     </h4>
 </details>
 
+<!--   Навыки -->
 <details>
   <summary>Мои навыки</summary>
     <h4> 
@@ -36,6 +41,21 @@
 <li> 📜 Переводы (английский, русский, молдавский)</li>    
     </h4>
 </details>
+
+
+
+
+<div align="center">
+<a href="https://github.com/love-angelll">
+  <img width="150px" 
+       src="https://komarev.com/ghpvc/?username=love-angelll&label=Profile%20views&color=318CE7&style=for-the-badge" 
+       alt="Profile views" /></a>
+<a href="https://api.github-star-counter.workers.dev/user/love-angelll">
+  <img width="147px" 
+       alt="Followers" 
+       title="Follow me on GitHub" 
+       src="https://custom-icon-badges.herokuapp.com/github/followers/love-angelll?color=318CE7&labelColor=505050&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" /></a>
+ </div>
 
 
 
@@ -59,24 +79,9 @@
 
 <!-- Новые прикалюхи
 
-ВЫПАДАЮШИЙ СПИСОК СО ВСЕМ 
-<details>
-  <summary>Docker </summary>
-    <li><a href="https://github.com/open-source-srilanka/eks-helm-client">EKS Helm Client</a></li>
-    <li><a href="https://github.com/open-source-srilanka/helm-client">Helm Client</a></li>
-</details>
 
- <div align="center">
-<a href="https://github.com/JoshuaThadi">
-  <img width="150px" 
-       src="https://komarev.com/ghpvc/?username=JoshuaThadi&label=Profile%20views&color=318CE7&style=for-the-badge" 
-       alt="Profile views" /></a>
-<a href="https://api.github-star-counter.workers.dev/user/JoshuaThadi">
-  <img width="147px" 
-       alt="Followers" 
-       title="Follow me on GitHub" 
-       src="https://custom-icon-badges.herokuapp.com/github/followers/JoshuaThadi?color=318CE7&labelColor=505050&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" /></a>
- </div>
+
+ 
 
 ## My Repos
 
