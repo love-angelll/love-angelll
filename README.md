@@ -6,7 +6,7 @@
   <tr>
     <td align="center">
       <a href="http://github.com/love-angelll">
-        <img src="https://avatars.githubusercontent.com/u/56259137?v=4" width="100px;" alt="Foto de Tati Alves no GitHub"/><br>
+        <img src="https://github.com/love-angelll/love-angelll/blob/main/imgs/ava.jpg" width="100px;" alt="Foto de Tati Alves no GitHub"/><br>
         <sub>
           <b>Иван Фрунза</b>
         </sub>
