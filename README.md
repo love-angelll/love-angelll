@@ -37,6 +37,20 @@
 [![sajib-notes](https://github-readme-stats.vercel.app/api/pin/?username=sajib1066&repo=sajib-notes&show_owner=true)](https://github.com/sajib1066/sajib-notes)
 [![job-finder-backend](https://github-readme-stats.vercel.app/api/pin/?username=sajib1066&repo=job-finder-backend&show_owner=true)](https://github.com/sajib1066/job-finder-backend)
 
+## :handshake: Colaboradores
+<table>
+  <tr>
+    <td align="center">
+      <a href="http://github.com/tatialveso">
+        <img src="https://avatars.githubusercontent.com/u/56259137?v=4" width="100px;" alt="Foto de Tati Alves no GitHub"/><br>
+        <sub>
+          <b>tatialveso</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 -->
