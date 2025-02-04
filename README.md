@@ -1,5 +1,19 @@
- <!--                         РУССКАЯ ВЕРСИЯ                         -->
+ <!-- Начало дизайна README.md файла -->
 <p align="center"> <href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=AFE1AF&center=true&width=435&lines=Welcome+To+My+Github+Page" alt="Typing SVG" /></p>
+
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="http://github.com/love-angelll">
+        <img src="https://avatars.githubusercontent.com/u/56259137?v=4" width="100px;" alt="Foto de Tati Alves no GitHub"/><br>
+        <sub>
+          <b>Иван Фрунза</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!-- ПЕЧАТАЛКА ТЕКСТА
 <p align="center">
@@ -77,12 +91,21 @@
 
 
 
-
+<!-- Репозитории -->
 ## Mои репозитории
 
 [![Autopost](https://github-readme-stats.vercel.app/api/pin/?username=love-angelll&repo=autopost&show_owner=true)](https://github.com/love-angelll/autopost)
 
-[![job-finder-backend](https://github-readme-stats.vercel.app/api/pin/?username=sajib1066&repo=job-finder-backend&show_owner=true)](https://github.com/sajib1066/job-finder-backend)
+[![Autopost](https://github-readme-stats.vercel.app/api/pin/?username=love-angelll&repo=autopost&show_owner=true)](https://github.com/love-angelll/autopost)
+
+[![Autopost](https://github-readme-stats.vercel.app/api/pin/?username=love-angelll&repo=autopost&show_owner=true)](https://github.com/love-angelll/autopost)
+
+
+## :handshake: Colaboradores
+
+
+
+
 
 
 
