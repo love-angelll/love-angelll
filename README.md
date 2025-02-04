@@ -70,8 +70,12 @@
   <summary style="font-size: 1.5em;">Репозитории</summary>
 
 <br>
+<!-- Автор проекта -->
+<p align="center">
+  <img src="https://img.shields.io/badge/XentronixHub-blue?style=for-the-badge" alt="Author">
+</p> 
 Все проекты тут:
-![Xentronix](https://github.com/XentronixHub/XentronixHub) 
+[Xentronix](https://github.com/XentronixHub/XentronixHub) 
 <br>
 
 <p align="center">
