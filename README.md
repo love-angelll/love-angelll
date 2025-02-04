@@ -16,6 +16,18 @@
     <li><a href="https://github.com/open-source-srilanka/helm-client">Helm Client</a></li>
 </details>
 
+ <div align="center">
+<a href="https://github.com/JoshuaThadi">
+  <img width="150px" 
+       src="https://komarev.com/ghpvc/?username=JoshuaThadi&label=Profile%20views&color=318CE7&style=for-the-badge" 
+       alt="Profile views" /></a>
+<a href="https://api.github-star-counter.workers.dev/user/JoshuaThadi">
+  <img width="147px" 
+       alt="Followers" 
+       title="Follow me on GitHub" 
+       src="https://custom-icon-badges.herokuapp.com/github/followers/JoshuaThadi?color=318CE7&labelColor=505050&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" /></a>
+ </div>
+
 
 
 -->
