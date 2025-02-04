@@ -8,7 +8,7 @@
       <a href="http://github.com/love-angelll">
         <img src="https://github.com/love-angelll/love-angelll/blob/main/imgs/ava.jpg" width="100px;" alt="Foto de Tati Alves no GitHub"/><br>
         <sub>
-          <b>Иван Фрунза</b>
+          <b>love-angelll</b>
         </sub>
       </a>
     </td>
