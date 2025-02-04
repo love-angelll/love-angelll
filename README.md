@@ -1,11 +1,13 @@
- <!-- Начало дизайна README.md файла -->
+<!-- Начало дизайна README.md файла -->
+
+<!-- WELCOME ANIMATION -->
 <p align="center"> <href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=AFE1AF&center=true&width=435&lines=Welcome+To+My+Github+Page" alt="Typing SVG" /></p>
 
 <!-- Приветствие -->
 <h2 align="center">Привет, я Иван Фрунза
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2> 
 
-<!-- Просмотров профиля и подписчиков -->
+<!-- Просмотры профиля и количество подписчиков -->
 <div align="center">
 <a href="https://github.com/love-angelll">
   <img width="150px" 
@@ -17,7 +19,7 @@
        title="Follow me on GitHub" 
        src="https://custom-icon-badges.herokuapp.com/github/followers/love-angelll?color=318CE7&labelColor=505050&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" /></a>
  </div>
-
+<!-- Конец -->
 
 <!-- О себе -->
 <h5>Привет! Я — молодой специалист в области настройки ПК и легкого ремонта, а также начинающий программист и дизайнер. Это место, где я делюсь своими проектами, знаниями и решениями в сфере технологий. Если вам нужна помощь с техникой, настройкой или созданием дизайна, не стесняйтесь обратиться ко мне — я всегда рад помочь!
@@ -32,7 +34,6 @@
 <li> 💡 Я всегда открыт для новых идей и вызовов, ведь именно они способствуют моему профессиональному росту и развитию.</li>
 </h5>
 
-
 <!--   Навыки -->
 <h3>Навыки</h3>
 <h5> 
@@ -42,22 +43,27 @@
 <li> 📜 Переводы (английский, русский, молдавский)</li>    
 </h5>
 
-
 <!-- Контакты -->
+<h3>👥 Контакты</h3>
+
 <details>
-  <summary style="font-size: 1.5em;">Контакты и социальные сети</summary>
 
-  <h3>👥 Контакты</h3>
-  <ul>
-      <h5>📧 Email: 
-        <a href="mailto:ivan.frunza.os@gmail.com">ivan.frunza.os@gmail.com</a>
-      </h5>
-      <h5>📱 Телефон: 
-        <a href="tel:+37377586594">(+373) 775-8-65-94</a>
-      </h5>
-  </ul>
+  <summary style="font-size: 1.5em;">📧 Email</summary>
 
-  <h3>📡 Социальные сети</h3>
+<a href="mailto:ivan.frunza.os@gmail.com">ivan.frunza.os@gmail.com</a>
+
+</details>
+
+<details>
+
+  <summary style="font-size: 1.5em;">📱 Телефон</summary>
+
+<a href="tel:+37377586594">(+373) 775-8-65-94</a>
+
+</details>
+
+<!-- Социальные сети -->
+<h3>📡 Социальные сети</h3>
 <p>
   <a href="https://vk.com/iv.frunza" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" width="24" alt="VK">
@@ -75,10 +81,6 @@
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" width="24" alt="TikTok">
 </a>
 </p>
-
-</details>
-
-
 
 <!-- Репозитории -->
 <details>
