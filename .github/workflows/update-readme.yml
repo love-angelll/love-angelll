@@ -1,0 +1,32 @@
+name: Update README with last commit time
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 * * * *'  # Каждый час
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Get the last commit date
+        id: commit_date
+        run: echo "::set-output name=date::$(git log -1 --format=%cd --date=iso)"
+
+      - name: Update README.md with last commit date
+        run: |
+          sed -i "s|<!-- last_commit_date -->|Last commit: ${{ steps.commit_date.outputs.date }}|g" README.md
+          
+      - name: Commit updated README.md
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Update last commit date in README"
+          git push
