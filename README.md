@@ -110,7 +110,7 @@
     <img src="https://cdn-icons-png.flaticon.com/24/2111/2111463.png" alt="Instagram">
   </a>
   <a href="https://www.tiktok.com/@iv_frunza" target="_blank">
-    <img src=https://upload.wikimedia.org/wikipedia/commons/1/16/TikTok_icon.svg" width="24" alt="TikTok"">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/TikTok_icon.svg" width="24" alt="TikTok"">
 </a>
   <a href="https://www.youtube.com/c/love_angelll" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/24/1384/1384060.png" alt="YouTube">
