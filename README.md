@@ -24,6 +24,17 @@
        src="https://custom-icon-badges.herokuapp.com/github/followers/love-angelll?color=318CE7&labelColor=505050&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" /></a>
  </div>
 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iv_frunza)
+[![VK Основной](https://img.shields.io/badge/VK%20Основной-4A76A8?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/iv.frunza)
+[![VK Твинк](https://img.shields.io/badge/VK%20Твинк-4A76A8?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/lover_kotik)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iv.frunza)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ivan_frunza)
+[![Viber](https://img.shields.io/badge/Viber-8B66A9?style=for-the-badge&logo=viber&logoColor=white)](viber://chat?number=%2B37377586594)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/37377586594)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/love_angelll/)
+[![Kwork](https://img.shields.io/badge/Kwork-FFB300?style=for-the-badge&logo=kwork&logoColor=white)](https://kwork.ru/user/ivan_frunza) 
+
 
 <!--   Заголовок основного раздела -->
 <h2>Основной раздел</h2> 
@@ -150,18 +161,7 @@
 - 📱 **Телефон:** (+373) 775-8-65-94
 - 🌍 **Локация:** Ташлык, ПМР
 
-## 📱 Социальные сети
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iv_frunza)
-[![VK Основной](https://img.shields.io/badge/VK%20Основной-4A76A8?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/iv.frunza)
-[![VK Твинк](https://img.shields.io/badge/VK%20Твинк-4A76A8?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/lover_kotik)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iv.frunza)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ivan_frunza)
-[![Viber](https://img.shields.io/badge/Viber-8B66A9?style=for-the-badge&logo=viber&logoColor=white)](viber://chat?number=%2B37377586594)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/37377586594)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/love_angelll/)
-[![Kwork](https://img.shields.io/badge/Kwork-FFB300?style=for-the-badge&logo=kwork&logoColor=white)](https://kwork.ru/user/ivan_frunza)
+=white)](https://kwork.ru/user/ivan_frunza)
 
 ## ✨ Интересные факты обо мне  
 - 🚀 Постоянно ищу новые способы автоматизировать задачи.  
