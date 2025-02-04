@@ -68,10 +68,9 @@
 <!-- Репозитории -->
 <details>
   <summary style="font-size: 1.5em;">Репозитории</summary>
+
 <br>
-
-Все проекты тут: ![](https://github.com/XentronixHub/XentronixHub) 
-
+Все проекты тут: ![Xentronix](https://github.com/XentronixHub/XentronixHub) 
 <br>
 
 <p align="center">
