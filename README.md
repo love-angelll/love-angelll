@@ -115,13 +115,14 @@
 
 
 <!-- Репозитории -->
-## Mои репозитории
-
+<details>
+  <summary>Репозитории</summary>
 <p align="center">
         <a href="https://github.com/love-angelll/autopost">
                 <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=love-angelll&repo=autopost&hide_border=true&theme=dark">
         </a>
 </p>
+</details>
 
 
 
