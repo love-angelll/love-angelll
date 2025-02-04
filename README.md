@@ -81,24 +81,34 @@
 </details>
 
 
-<!--   Контакты -->
+<!-- Контакты -->
 <details>
   <summary>Контакты и социальные сети</summary>
-<h3>👥 Контакты</h3>
-<li><h3>Email:</h3>
 
-<h4>
-[ivan.frunza.os@gmail.com](mailto:ivan.frunza.os@gmail.com)
-<a href="ivan.frunza.os@gmail.com">ivan.frunza.os@gmail.com</a>
-</h4></li>
-<li><h3>📱 Телефон:</h3><h4> (+373) 775-8-65-94</h4></li>
+  <h3>👥 Контакты</h3>
+  <ul>
+    <li>
+      <h3>📧 Email:</h3>
+      <h4>
+        <a href="mailto:ivan.frunza.os@gmail.com">ivan.frunza.os@gmail.com</a>
+      </h4>
+    </li>
+    <li>
+      <h3>📱 Телефон:</h3>
+      <h4>
+        <a href="tel:+37377586594">(+373) 775-8-65-94</a>
+      </h4>
+    </li>
+  </ul>
 
-<h3>Социальные сети</h3> 
-<h4>
-📧 **Email:** [ivan.frunza.os@gmail.com](mailto:ivan.frunza.os@gmail.com)
-📱 **Телефон:** (+373) 775-8-65-94
-    </h4>
+  <h3>📡 Социальные сети</h3>
+  <h4>
+    📧 <strong>Email:</strong> <a href="mailto:ivan.frunza.os@gmail.com">ivan.frunza.os@gmail.com</a> <br>
+    📱 <strong>Телефон:</strong> <a href="tel:+37377586594">(+373) 775-8-65-94</a>
+  </h4>
 </details>
+
+
 
 <!-- Репозитории -->
 ## Mои репозитории
