@@ -36,15 +36,6 @@
 
 ---
 
-<!--   Навыки -->
-<h3>Навыки</h3>
-<h5> 
-<li> 💻 Ремонт и настройка ПК</li>
-<li> 🌐 Веб-разработка (Tilda) (Начального уровня)</li>
-<li> 🎨 Дизайн (визитки, логотипы, банеры, флаеры)</li>
-<li> 📜 Переводы (английский, русский, молдавский)</li>    
-</h5>
-
 <!-- Социальные сети -->
 <h3>📡 Социальные сети</h3>
 <p>
@@ -66,7 +57,6 @@
 </p>
 
 <!-- Статитска -->
-<details>
 <summary style="font-size: 1.5em;">GitHub Статистика</summary>
 <br>
 <p align="center">
@@ -76,8 +66,6 @@
 <p align="center">
         <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=love-angelll&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&hide_border=true&theme=dark&hide=">
 </p> 
-
-</details>  
 
 <!-- Проекты и репозитории -->
 <h2 align="center">Проекты и репозитории</h2>  
