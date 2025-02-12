@@ -65,31 +65,6 @@
 </a>
 </p>
 
-<!-- Проекты и репозитории -->
-<h2 align="center">Проекты и репозитории</h2>  
-
-<!-- Автор проекта -->
-<p align="center">
-<a href="https://github.com/XentronixHub/XentronixHub">
-  <img src="https://img.shields.io/badge/XentronixHub-blue?style=for-the-badge" alt="Author">
-</p> 
-
-<!-- Репозитории 
-<details>
-  <summary style="font-size: 1.5em;">Репозитории</summary>
-
-<br>
-
-<p align="center">
-        <a href="https://github.com/love-angelll/autopost">
-                <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=love-angelll&repo=autopost&hide_border=true&theme=dark">
-        </a>
-</p>
-
-</details>
--->
-
-
 <!-- Статитска -->
 <details>
 <summary style="font-size: 1.5em;">GitHub Статистика</summary>
@@ -102,8 +77,16 @@
         <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=love-angelll&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&hide_border=true&theme=dark&hide=">
 </p> 
 
-</details> 
+</details>  
 
+<!-- Проекты и репозитории -->
+<h2 align="center">Проекты и репозитории</h2>  
+
+<!-- Автор проекта -->
+<p align="center">
+<a href="https://github.com/XentronixHub/XentronixHub">
+  <img src="https://img.shields.io/badge/XentronixHub-blue?style=for-the-badge" alt="Author">
+</p> 
 
 <!-- Радужная линия -->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/> 
@@ -120,6 +103,21 @@
 
 <!--
 [![MIT license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
+
+<!-- Репозитории 
+<details>
+  <summary style="font-size: 1.5em;">Репозитории</summary>
+
+<br>
+
+<p align="center">
+        <a href="https://github.com/love-angelll/autopost">
+                <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=love-angelll&repo=autopost&hide_border=true&theme=dark">
+        </a>
+</p>
+
+</details>
+--> 
 
 Новые прикалюхи
 
