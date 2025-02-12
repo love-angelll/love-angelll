@@ -60,7 +60,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/> 
 
 <!-- Социальные сети -->
-<h3 align="center">📡 Социальные сети</h3>
+<!-- <h3 align="center">📡 Социальные сети</h3> -->
 <p align="center">
   <a href="https://vk.com/iv.frunza" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" width="24" alt="VK">
