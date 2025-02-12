@@ -60,8 +60,12 @@
 
 <br>
 
-<!-- Социальные сети -->
-<!-- <h3 align="center">📡 Социальные сети</h3> -->
+<blockquote style="text-align: center; opacity: 0.5; font-style: italic;">
+    Последнее редактирование README.md<br>12.02.2025 | 16:35
+</blockquote> 
+
+<!--
+ <h3 align="center">📡 Социальные сети</h3>
 <p align="center">
   <a href="https://vk.com/iv.frunza" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" width="24" alt="VK">
@@ -76,7 +80,7 @@
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" width="24" alt="TikTok">
 </a>
 </p> 
-
+-->
 
 
 
