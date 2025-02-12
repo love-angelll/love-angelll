@@ -57,7 +57,7 @@
 </p>
 
 <!-- Статитска -->
-<summary style="font-size: 1.5em;">GitHub Статистика</summary>
+<h2 align="center">GitHub Статистика</h2>
 <br>
 <p align="center">
         <img width="450em" src="https://github-readme-stats.vercel.app/api?username=love-angelll&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
