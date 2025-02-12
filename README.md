@@ -36,26 +36,6 @@
 
 ---
 
-<!-- Социальные сети -->
-<h3 align="center">📡 Социальные сети</h3>
-<p align="center">
-  <a href="https://vk.com/iv.frunza" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" width="24" alt="VK">
-  </a>
-  <a href="https://vk.com/lover_kotik" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" width="24" alt="VK Twink">
-  </a>
-  <a href="https://t.me/iv_frunza" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/24/2111/2111646.png" alt="Telegram">
-  </a>
-  <a href="https://www.instagram.com/iv.frunza" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/24/2111/2111463.png" alt="Instagram">
-  </a>
-  <a href="https://www.tiktok.com/@iv_frunza" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" width="24" alt="TikTok">
-</a>
-</p>
-
 <!-- Статитска -->
 <h2 align="center">GitHub Статистика</h2>
 <br>
@@ -78,6 +58,29 @@
 
 <!-- Радужная линия -->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/> 
+
+<!-- Социальные сети -->
+<h3 align="center">📡 Социальные сети</h3>
+<p align="center">
+  <a href="https://vk.com/iv.frunza" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" width="24" alt="VK">
+  </a>
+  <a href="https://t.me/iv_frunza" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/24/2111/2111646.png" alt="Telegram">
+  </a>
+  <a href="https://www.instagram.com/iv.frunza" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/24/2111/2111463.png" alt="Instagram">
+  </a>
+  <a href="https://www.tiktok.com/@iv_frunza" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" width="24" alt="TikTok">
+</a>
+</p> 
+
+
+
+
+
+
 
 
 
