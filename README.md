@@ -37,8 +37,8 @@
 ---
 
 <!-- Социальные сети -->
-<h3>📡 Социальные сети</h3>
-<p>
+<h3 align="center">📡 Социальные сети</h3>
+<p align="center">
   <a href="https://vk.com/iv.frunza" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" width="24" alt="VK">
   </a>
@@ -92,7 +92,7 @@
 <!--
 [![MIT license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
 
-<!-- Репозитории 
+Репозитории 
 <details>
   <summary style="font-size: 1.5em;">Репозитории</summary>
 
@@ -105,7 +105,6 @@
 </p>
 
 </details>
---> 
 
 Новые прикалюхи
 
