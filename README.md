@@ -8,7 +8,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2> 
 
 <!-- Просмотры профиля и количество подписчиков -->
-<!-- <div align="center"> -->
+<div align="center">
 <a href="https://github.com/love-angelll">
   <img width="150px" 
        src="https://komarev.com/ghpvc/?username=love-angelll&label=Profile%20views&color=318CE7&style=for-the-badge" 
@@ -19,7 +19,7 @@
        alt="Followers" 
        title="Follow me on GitHub" 
        src="https://custom-icon-badges.herokuapp.com/github/followers/love-angelll?color=318CE7&labelColor=505050&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" /></a>
-<!-- </div> -->
+</div>
 <!-- Конец -->
 
 <!-- О себе -->
