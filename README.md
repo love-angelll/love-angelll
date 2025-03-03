@@ -80,7 +80,7 @@
 <br><br>
 
 <blockquote style="text-align: center; opacity: 0.5; font-style: italic;">
-    Последнее редактирование README.md<br>18.02.2025 | 12:22
+    Последнее редактирование README.md<br>03.03.2025 | 12:17
 </blockquote> 
 
 
@@ -164,9 +164,9 @@
     </td>
   </tr>
 </table>
--->
 
-<!-- ПЕЧАТАЛКА ТЕКСТА
+
+ ПЕЧАТАЛКА ТЕКСТА
 <p align="center">
   <a href="https://github.com/love-angelll"><img src="http://readme-typing-svg.herokuapp.com?color=df9c1f&center=true&vCenter=true&multiline=false&lines=Мое+имя+Иван+Фрунза;Don't+bully+me+≧▽≦" alt="Asu"></a>
 </p>
@@ -185,9 +185,9 @@
     </td>
   </tr>
 </table>
---> 
 
-<!-- Контакты
+
+ Контакты
 <h3>👥 Контакты</h3>
 
 <details>
@@ -203,21 +203,20 @@
 <br>
 <a href="tel:+37377586594">(+373) 775-8-65-94</a>
 </details>
---> 
 
-<!--
+
 **1. [VKtoTG Music](https://github.com/love-angelll/VKtoTG-Music)**<br>
 Этот проект представляет собой бота ВКонтакте, который принимает музыку, отправленную в личные сообщения группы, и пересылает её в нашего бота Telegram. Бот имеет ограничение — до 20 треков в день.
 
 > [!WARNING]
 > Проект находится ещё в разработке !
 
-<!-- Бейджики достижений и процентов -->
+ Бейджики достижений и процентов 
 <p align="center">
   <img src="https://img.shields.io/github/forks/love-angelll/VKtoTG-Music" alt="Forks" />
   <img src="https://img.shields.io/github/stars/love-angelll/VKtoTG-Music" alt="Stars" />
   <img src="https://img.shields.io/github/issues/love-angelll/VKtoTG-Music" alt="Issues" />
-<!-- Линия прогресса -->
+ Линия прогресса 
   <img src="https://img.shields.io/badge/Project%20Completion-50%25-green" alt="Project Completion"/>
 </p> 
 
@@ -227,12 +226,12 @@
 > [!WARNING]
 > Проект находится ещё в разработке !
 
-<!-- Бейджики достижений и процентов -->
+ Бейджики достижений и процентов 
 <p align="center">
   <img src="https://img.shields.io/github/forks/love-angelll/tg_music_chanell" alt="Forks" />
   <img src="https://img.shields.io/github/stars/love-angelll/tg_music_chanell" alt="Stars" />
   <img src="https://img.shields.io/github/issues/love-angelll/tg_music_chanell" alt="Issues" />
-<!-- Линия прогресса -->
+ Линия прогресса 
   <img src="https://img.shields.io/badge/Project%20Completion-75%25-green" alt="Project Completion"/>
 </p> 
 --> 
