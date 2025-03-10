@@ -35,6 +35,12 @@
 <li> 💡 Я всегда открыт для новых идей и вызовов, ведь именно они способствуют моему профессиональному росту и развитию.</li>
 </h5>
 
+<!-- Мой ноутбук -->
+<h2 align="center">Моя конфигурация ноутбука</h2>
+
+<a href="https://github.com/love-angelll/love-angelll/blob/main/readme%2Flaptop-configuration.md" style="display: inline-block; background-color: #007bff; color: white; font-size: 16px; font-weight: bold; padding: 10px 20px; border-radius: 5px; text-decoration: none; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: background-color 0.3s;">
+  Узнать о моем ноутбуке
+</a>
 
 <!-- Статитска -->
 <h2 align="center">GitHub Статистика</h2>
