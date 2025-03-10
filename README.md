@@ -38,12 +38,11 @@
 <!-- Мой ноутбук -->
 <h2 align="center">Моя конфигурация ноутбука</h2>
 
-<div style="text-align: center; margin-top: 20px;">
-  <a href="https://github.com/love-angelll/love-angelll/blob/main/readme%2Flaptop-configuration.md" style="display: inline-flex; align-items: center; background-color: #007bff; color: white; font-size: 16px; font-weight: bold; padding: 10px 20px; border-radius: 5px; text-decoration: none; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: background-color 0.3s;">
-    <img src="https://img.icons8.com/ios/452/info.png" alt="info-icon" style="width: 20px; height: 20px; margin-right: 10px;">
-    Узнать о моем ноутбуке
+<p align="center">
+  <a href="https://github.com/love-angelll/love-angelll/blob/main/readme%2Flaptop-configuration.md">
+    <img src="https://img.shields.io/badge/Узнать_о_моем_ноутбуке-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="my-laptop-info">
   </a>
-</div> 
+</p> 
 
 <!-- Статитска -->
 <h2 align="center">GitHub Статистика</h2>
